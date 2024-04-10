@@ -14,3 +14,5 @@ This robot was created as a part of my coursework for the EN 2553 Robot Design a
 
 5. **Guarded Navigation Task**
    In the final leg of its journey, the robot faces its most formidable challenge - evading a vigilant guard robot. This automated sentinel patrols a predefined path, moving periodically from right to left and vice versa, with pauses at designated endpoints. With strategic navigation, the robot circumvents the guard robot's path, ensuring it reaches Checkpoint 8 unscathed. Through meticulous planning and execution, the robot emerges triumphant, having conquered each obstacle in its path.
+
+![1703391120927](https://github.com/jaliyanimanthako/InnovaBot/assets/161110418/bbbd085f-6ad2-4252-9f3b-98445f105fda)
