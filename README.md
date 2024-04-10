@@ -1,6 +1,5 @@
 # InnovaBot
-Certainly, here's a narrative explanation of each task using their exact names:
-
+This robot was created as a part of my coursework for the EN 2553 Robot Design and Competition module. Throughout the project, I applied theoretical knowledge to develop a functional robot capable of completing various tasks. This hands-on experience allowed me to gain valuable insights into robotics design and competition. The robot's development serves as a practical demonstration of the skills I acquired during the module, highlighting my ability to apply theoretical concepts to real-world challenges.
 1. **Line Following Task**
    The robot sets off from the starting point at Checkpoint 1, situated on a white square. Its primary objective is to trace a path delineated by a white line against a contrasting black surface. This path presents various challenges, including curves, straight stretches, and junctions. With precision and agility, the robot follows the intricate route until it successfully arrives at Checkpoint 2.
 
